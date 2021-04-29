@@ -1,4 +1,1 @@
-# The Music Joynt
-
-## Description
-An online music community
+![GitHub Logo](/img/bitmap.png)
